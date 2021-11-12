@@ -1,0 +1,20 @@
+name: mytheme
+type: theme
+core_version_requirement: ^8|| ^9
+description: My really empty theme
+base theme: classy  
+# ...Regions
+regions: 
+  secondary_menu: secondary_menu
+  header: Header
+  main_navigation: Main Naviigation
+  primary_menu: primary_menu
+  featured: featured
+  content: content
+  main_Footer: main_footer
+  base_Footer: base_footer
+  info_Footer: info_footer
+  
+#libraries
+libraries:
+ - mytheme/global

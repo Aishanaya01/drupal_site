@@ -1,0 +1,9 @@
+global:
+  css:
+    theme:
+      css/style.css: {}
+  
+  dependencies:
+    - core/drupal
+    - core/jquery
+    
